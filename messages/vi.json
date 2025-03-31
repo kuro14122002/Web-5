@@ -1,0 +1,124 @@
+{
+  "navbar": {
+    "home": "Trang chủ",
+    "features": "Tính năng",
+    "characters": "Nhân vật",
+    "media": "Phương tiện",
+    "news": "Tin tức",
+    "playNow": "Chơi ngay"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Bắt đầu cuộc phiêu lưu hùng tráng",
+        "subtitle": "Khám phá thế giới phép thuật rộng lớn đầy phiêu lưu",
+        "cta": "Bắt đầu cuộc phiêu lưu"
+      },
+      {
+        "title": "Làm chủ khả năng mạnh mẽ",
+        "subtitle": "Mở khóa kỹ năng huyền thoại và sử dụng phép thuật cổ xưa",
+        "cta": "Khám phá sức mạnh"
+      },
+      {
+        "title": "Định hình số phận",
+        "subtitle": "Đưa ra lựa chọn định hình vận mệnh của vương quốc",
+        "cta": "Chọn con đường của bạn"
+      }
+    ],
+    "watchTrailer": "Xem trailer",
+    "availableOn": "Có sẵn trên:",
+    "scrollToExplore": "Cuộn để khám phá"
+  },
+  "features": {
+    "title": "Tính năng trò chơi",
+    "subtitle": "Khám phá thế giới với vô vàn khả năng từ tính năng gameplay sáng tạo của chúng tôi",
+    "items": [
+      {
+        "title": "Phiêu lưu thế giới mở",
+        "description": "Khám phá thế giới rộng lớn, liền mạch đầy kho báu ẩn, kẻ thù nguy hiểm và khung cảnh tuyệt đẹp."
+      },
+      {
+        "title": "Hệ thống chiến đấu hoành tráng",
+        "description": "Làm chủ hệ thống chiến đấu sâu sắc với vũ khí và khả năng độc đáo. Kết hợp tấn công, né tránh và phản đòn để trở nên vô song."
+      },
+      {
+        "title": "Tùy chỉnh nhân vật",
+        "description": "Tạo nhân vật độc đáo với nhiều tùy chọn. Chọn lớp nhân vật, ngoại hình và khả năng của bạn."
+      },
+      {
+        "title": "Thời tiết động & Chu kỳ ngày/đêm",
+        "description": "Trải nghiệm thế giới sống động với hiệu ứng thời tiết thực tế và chu kỳ ngày/đêm ảnh hưởng đến lối chơi và nhiệm vụ."
+      },
+      {
+        "title": "Hợp tác nhiều người chơi",
+        "description": "Liên kết với bạn bè để giải quyết nội dung thách thức, trao đổi vật phẩm và xây dựng cộng đồng phát triển."
+      },
+      {
+        "title": "Cốt truyện điện ảnh",
+        "description": "Đắm mình trong cuộc phiêu lưu theo cốt truyện với những nhân vật đáng nhớ và cốt truyện phân nhánh."
+      }
+    ],
+    "exploreAllFeatures": "Khám phá tất cả tính năng"
+  },
+  "characters": {
+    "title": "Nhân vật huyền thoại",
+    "subtitle": "Chọn nhân vật và làm chủ những khả năng độc đáo",
+    "viewFullProfile": "Xem hồ sơ đầy đủ",
+    "signatureAbilities": "Khả năng đặc trưng",
+    "characters": [
+      {
+        "name": "Aria Nightshade",
+        "role": "Sát thủ bóng tối",
+        "description": "Bậc thầy về ẩn mình và sự chính xác, Aria tấn công từ bóng tối với độ chính xác chết người. Cặp kiếm của cô được cho là được rèn từ bản chất của bóng tối.",
+        "abilities": ["Bước bóng", "Dấu ấn Tử thần", "Màn sương bóng tối"]
+      },
+      {
+        "name": "Ragnar Stormfury",
+        "role": "Chiến binh nguyên tố",
+        "description": "Sinh ra trong một cơn bão huyền thoại, Ragnar vận dụng sức mạnh của sấm sét. Búa chiến mạnh mẽ của anh có thể triệu hồi tia sét từ bầu trời để tiêu diệt kẻ thù.",
+        "abilities": ["Đòn sấm sét", "Dòng điện", "Khiên bão"]
+      },
+      {
+        "name": "Elara Moonsong",
+        "role": "Người chữa lành thiên thể",
+        "description": "Được nữ thần mặt trăng ban phước, Elara sở hữu khả năng chữa lành mạnh mẽ và phép thuật bảo vệ. Những câu thần chú du dương có thể chữa lành vết thương và tiếp sức cho đồng minh trong trận chiến.",
+        "abilities": ["Phước lành Mặt trăng", "Hào quang Thiên thể", "Ôm ấp của Sao"]
+      }
+    ]
+  },
+  "media": {
+    "title": "Thư viện phương tiện",
+    "subtitle": "Khám phá ảnh chụp màn hình và video từ thế giới Ethereal Realms",
+    "screenshots": "Ảnh chụp màn hình",
+    "videos": "Video",
+    "viewAll": "Xem tất cả"
+  },
+  "news": {
+    "title": "Tin tức & Cập nhật mới nhất",
+    "subtitle": "Cập nhật thông tin với những thông báo, sự kiện và cập nhật trò chơi mới nhất",
+    "readMore": "Đọc thêm",
+    "viewAllNews": "Xem tất cả tin tức"
+  },
+  "footer": {
+    "description": "Bắt đầu cuộc hành trình hùng tráng qua các thế giới phép thuật, làm chủ sức mạnh cổ xưa, và định hình số phận của bạn.",
+    "quickLinks": "Liên kết nhanh",
+    "resources": "Tài nguyên",
+    "download": "Tải xuống",
+    "getGame": "Tải trò chơi trên nền tảng ưa thích của bạn:",
+    "copyright": "© 2024 Ethereal Realms. Tất cả quyền được bảo lưu.",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsOfService": "Điều khoản dịch vụ",
+    "cookiePolicy": "Chính sách cookie",
+    "resourceLinks": {
+      "gameGuide": "Hướng dẫn trò chơi",
+      "patchNotes": "Ghi chú cập nhật",
+      "community": "Cộng đồng",
+      "merchandise": "Hàng hóa",
+      "devBlog": "Blog nhà phát triển"
+    }
+  },
+  "language": {
+    "en": "English",
+    "vi": "Tiếng Việt"
+  }
+} 

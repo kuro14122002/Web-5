@@ -1,0 +1,124 @@
+{
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "characters": "Characters",
+    "media": "Media",
+    "news": "News",
+    "playNow": "Play Now"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Embark on an Epic Journey",
+        "subtitle": "Explore vast magical worlds filled with adventure",
+        "cta": "Begin Your Adventure"
+      },
+      {
+        "title": "Master Powerful Abilities",
+        "subtitle": "Unlock legendary skills and harness ancient magic",
+        "cta": "Discover Your Powers"
+      },
+      {
+        "title": "Forge Your Destiny",
+        "subtitle": "Make choices that shape the fate of the realm",
+        "cta": "Choose Your Path"
+      }
+    ],
+    "watchTrailer": "Watch Trailer",
+    "availableOn": "Available on:",
+    "scrollToExplore": "Scroll to explore"
+  },
+  "features": {
+    "title": "Game Features",
+    "subtitle": "Discover a world of endless possibilities with our innovative gameplay features",
+    "items": [
+      {
+        "title": "Open World Adventure",
+        "description": "Explore a vast, seamless world filled with hidden treasures, dangerous foes, and breathtaking vistas."
+      },
+      {
+        "title": "Epic Combat System",
+        "description": "Master a deep combat system with unique weapons and abilities. Chain attacks, dodge, and counter to become unstoppable."
+      },
+      {
+        "title": "Character Customization",
+        "description": "Create your unique hero with extensive customization options. Choose your class, appearance, and abilities."
+      },
+      {
+        "title": "Dynamic Weather & Day/Night Cycle",
+        "description": "Experience a living world with realistic weather effects and day/night cycles that affect gameplay and quests."
+      },
+      {
+        "title": "Multiplayer Co-op",
+        "description": "Join forces with friends to tackle challenging content, trade items, and build a thriving community."
+      },
+      {
+        "title": "Cinematic Story",
+        "description": "Immerse yourself in a narrative-driven adventure with memorable characters and branching storylines."
+      }
+    ],
+    "exploreAllFeatures": "Explore All Features"
+  },
+  "characters": {
+    "title": "Legendary Characters",
+    "subtitle": "Choose your champion and master their unique abilities",
+    "viewFullProfile": "View Full Profile",
+    "signatureAbilities": "Signature Abilities",
+    "characters": [
+      {
+        "name": "Aria Nightshade",
+        "role": "Shadow Assassin",
+        "description": "A master of stealth and precision, Aria strikes from the shadows with deadly accuracy. Her twin blades are said to be forged from the essence of darkness itself.",
+        "abilities": ["Shadow Step", "Death Mark", "Veil of Shadows"]
+      },
+      {
+        "name": "Ragnar Stormfury",
+        "role": "Elemental Warrior",
+        "description": "Born amidst a legendary storm, Ragnar wields the raw power of thunder and lightning. His mighty warhammer can call down bolts from the heavens to smite his enemies.",
+        "abilities": ["Thunder Strike", "Lightning Surge", "Storm Shield"]
+      },
+      {
+        "name": "Elara Moonsong",
+        "role": "Celestial Healer",
+        "description": "Blessed by the moon goddess, Elara possesses powerful healing abilities and protective magic. Her melodic enchantments can mend wounds and reinvigorate allies in battle.",
+        "abilities": ["Lunar Blessing", "Celestial Aura", "Star's Embrace"]
+      }
+    ]
+  },
+  "media": {
+    "title": "Media Gallery",
+    "subtitle": "Explore screenshots and videos from the world of Ethereal Realms",
+    "screenshots": "Screenshots",
+    "videos": "Videos",
+    "viewAll": "View All"
+  },
+  "news": {
+    "title": "Latest News & Updates",
+    "subtitle": "Stay informed with our latest announcements, events, and game updates",
+    "readMore": "Read More",
+    "viewAllNews": "View All News"
+  },
+  "footer": {
+    "description": "Embark on an epic journey through magical worlds, master ancient powers, and forge your destiny.",
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "download": "Download",
+    "getGame": "Get the game on your preferred platform:",
+    "copyright": "© 2024 Ethereal Realms. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy",
+    "resourceLinks": {
+      "gameGuide": "Game Guide",
+      "patchNotes": "Patch Notes",
+      "community": "Community",
+      "merchandise": "Merchandise",
+      "devBlog": "Developer Blog"
+    }
+  },
+  "language": {
+    "en": "English",
+    "vi": "Tiếng Việt"
+  }
+} 
